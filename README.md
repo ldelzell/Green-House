@@ -15,7 +15,6 @@ Green House Software so that it is esier to keep track of the temperature, humid
 
 ## Run The Application 
 
-  1. https://github.com/ldelzell/Mario-and-Luigi-Pizzeria.git
-  2. cd ml-pizzeria
-  3. pip install flask flask_login
-  4. Enter: "flask run"
+  1. https://github.com/ldelzell/Green-House.git
+  2. pip install flask requests
+  3. Enter: "flask run"
