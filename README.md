@@ -1,8 +1,8 @@
 # Green House
+  One of the first project from Fontys University of Aplied Science 
+  Green House Software so that it is esier to keep track of the temperature, humidity and the inside.
 
-One of the first project from Fontys University of Aplied Science 
 
-Green House Software so that it is esier to keep track of the temperature, humidity and the inside.
 
 
 ## Technologies
